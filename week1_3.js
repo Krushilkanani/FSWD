@@ -9,4 +9,3 @@ if (age < 18) {
 } else {
   console.log("You are a senior citizen.");
   document.getElementById("demo").innerHTML = "You are a senior citizen...";
-}
